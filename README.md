@@ -13,4 +13,5 @@ DELETE : http://localhost:9090/api/v1/medical-records [Delete all data]
 H2 Console
 ----------
 http://localhost:9090/h2-console
+
 jdbc url : jdbc:h2:mem:test_db
